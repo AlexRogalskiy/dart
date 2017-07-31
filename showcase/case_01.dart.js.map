@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "engine": "v1",
+  "file": "case_01.dart.js",
+  "sourceRoot": "",
+  "sources": ["../../../../../Program%20Files/Dart/dart-sdk/lib/_internal/js_runtime/lib/js_primitives.dart","case_01.dart","../../../../../Program%20Files/Dart/dart-sdk/lib/_internal/js_runtime/lib/internal_patch.dart","../../../../../Program%20Files/Dart/dart-sdk/lib/core/print.dart"],
+  "names": ["printString","fib","main","printToConsole","print"],
+  "mappings": "A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EAmBAA,YACEA,GAAIA,4B,EAEFA;AACAA,OAIFA,GAAIA,0BACAA,iCACFA;AACAA,OAIFA,GAAIA,wBACFA;AAIFA,GAAIA,0BACFA;AACAA,OAMFA,2CACFA,A;EChDAC,YACIA,OAAUA,OAAaA,AAAWA,IAALA,KAAOA,IAAMA,KAC9CA,A;EAEAC,WC0BEC,ICtBgBC,aFHKF,SACvBA,A"
+}
